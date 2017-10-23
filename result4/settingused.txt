@@ -1,0 +1,1 @@
+alpha 0.01 k 50 random iteration 31

@@ -1,0 +1,1 @@
+alpha 0.01 k 100 seeded iteration 18
